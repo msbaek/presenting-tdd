@@ -1,13 +1,4 @@
 spring:
-  jpa:
-    show-sql: true
-    properties:
-      hibernate:
-        format_sql: true
-logging:
-  level:
-    org:
-      hibernate:
-        type:
-          descriptor:
-            sql: trace
+  datasource:
+    url: jdbc:p6spy:h2:mem:testdb
+    driver-class-name: com.p6spy.engine.spy.P6SpyDriver

@@ -2,3 +2,5 @@ spring:
   datasource:
     url: jdbc:p6spy:h2:mem:testdb
     driver-class-name: com.p6spy.engine.spy.P6SpyDriver
+#naver:
+#  search-url: "https://openapi.naver.com/v1/search/"

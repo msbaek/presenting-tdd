@@ -8,3 +8,7 @@
 - [Naver 지역 검색 API TDD로 구현하기](https://htmlpreview.github.io/?https://github.com/msbaek/presenting-tdd/blob/main/slides/presenting-tdd-1.naver-search-api.html)
 - [Inside-out TDD](https://htmlpreview.github.io/?https://github.com/msbaek/presenting-tdd/blob/main/slides/presenting-tdd-2.inside-out.html)
 - [Outside-in TDD](https://htmlpreview.github.io/?https://github.com/msbaek/presenting-tdd/blob/main/slides/presenting-tdd-3.outside-in.html)
+
+## 따라 해 보기
+
+- try로 시작하는 브랜치를 받아서 해 보세요 ^^

@@ -15,6 +15,12 @@
 - [2. Inside-out TDD](https://htmlpreview.github.io/?https://github.com/msbaek/presenting-tdd/blob/main/slides/presenting-tdd-2.inside-out.html)
 - [3. Outside-in TDD with Vertical Slice](https://htmlpreview.github.io/?https://github.com/msbaek/presenting-tdd/blob/main/slides/presenting-tdd-3.outside-in.html)
 - [4. Outside-in TDD with Mock](https://htmlpreview.github.io/?https://github.com/msbaek/presenting-tdd/blob/main/slides/presenting-tdd-5.outside-in-mockist.html)
-## 따라 해 보기
 
+## 따라 해 보기
 - try로 시작하는 브랜치를 받아서 슬라이드를 보면서 따라 해 보세요 ^^
+
+## Youtube 영상
+- [Presenting TDD](https://www.youtube.com/watch?v=_rytkosOQqY)
+  - 슬라이드 자료 0,1,2,3
+- [Presenting TDD - Mockist](https://www.youtube.com/watch?v=ly-TmUuIXyw)
+  - 슬라이드 자료 4
